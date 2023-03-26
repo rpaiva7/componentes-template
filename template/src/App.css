@@ -1,6 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  background-color: black;
+}
+
+.main{
+  min-height: 60vh;
+  
+}
+
+.img{
+  width: 150px;
+  height: 150px;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
+  color: teal;
+}
+
+.footer{
+  background-color: black;
+  height: 15vh;
+  display: grid;
+  align-items: center;
+}
+
+.p{
+  color: white;
+  font-family: Arial;
+}
+
+.ul{
+  color: white;
+  font-family: Arial;
 }
 
 
